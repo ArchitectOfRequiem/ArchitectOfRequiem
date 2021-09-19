@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mateusz Skrzypczak
+- 👀 I’m interested in many things in my life, animals, programming, math
+- 🌱 I’m currently learning houdini and unreal engine technology
+- 📫 How to reach me: LinkedIn
